@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# custom
+lightning_logs/
+.idea/
+assets/
+
 # Distribution / packaging
 .Python
 build/
